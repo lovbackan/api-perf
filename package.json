@@ -1,0 +1,11 @@
+{
+  "name": "@snrgy/api-perf",
+  "version": "0.1.0",
+  "description": "Reliable HTTP API performance measurement with transparent methodology",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
+  "keywords": ["api", "performance", "http", "metrics", "benchmarking"],
+  "license": "MIT"
+}
